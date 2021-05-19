@@ -1,16 +1,16 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there! 👨‍💻
 
-<!--
-**eclairsp/eclairsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am mainly a Web Developer but open to learning new stuff.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently looking for new opportunities .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+- JavaScript - React.js, Node.js, Vue.js
+- HTML and CSS
+- Python - Flask
+- Java and C
+
