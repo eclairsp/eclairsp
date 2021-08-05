@@ -2,9 +2,6 @@
 
 I am mainly a Web Developer but open to learning new stuff.
 
-#### 🔭 I’m currently looking for new opportunities .
-
-
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
